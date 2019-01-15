@@ -8,3 +8,4 @@ COPY RIGHT RULES
 **No Taking Credit For Who Made The Code,
 **Dont sell the code,
 If any off theese are violated, you will be terminated from using this code.
+**THIS CODE WILL BE TAKEN DOWN SHORTLY**
